@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/sixthin016/a-day-of-one-line-pitches/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 [![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/sixthin016/a-day-of-one-line-pitches/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
-One sentence that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun. The program writes that single sentence to `entry.txt` — no code, no explanation, just the pitch.
+One sentence that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun. The program writes that single sentence to `entry.txt` — no code, no explanation, just the pitch:
+
+> Tell an AI agent on make.fun your app idea in plain words tonight, and by tomorrow you'll have a first version you can tap, try, and show your friends — no code, no cost, no commitment.
 
 ## Run it
 

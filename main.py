@@ -11,12 +11,18 @@ produces the same file, so two grader runs are byte-identical.
 import os
 import sys
 
-# One sentence, 202 characters. Plain words, second person, a concrete
-# time promise (tonight), and the risk removed (no code, no cost, walk away).
+# One sentence, 185 characters. Plain words, second person, a concrete
+# time promise (tonight -> tomorrow), and the risk removed (no code,
+# no cost, no commitment). Winner of the local proxy judge (NVIDIA
+# Nemotron-3-Nano): mean game 0.967 vs three strong rival pitches, and
+# the shortest of the finalists, which the tie-break favours.
+# The live-judge gate (z-ai/glm-5.3-flash) could not run yet: Runcrate
+# returned HTTP 529 Overloaded on every free model, and OpenRouter's free
+# daily budget was already spent. Re-run notes/h2h_gate.py before submit.
 PITCH = (
-    "Just describe the app you've been dreaming about in your own words, "
-    "and let an AI agent on make.fun build you a first version to try "
-    "tonight \u2014 no code, no cost, and nothing to lose if you don't love it."
+    "Tell an AI agent on make.fun your app idea in plain words tonight, "
+    "and by tomorrow you'll have a first version you can tap, try, and "
+    "show your friends \u2014 no code, no cost, no commitment."
 )
 
 
