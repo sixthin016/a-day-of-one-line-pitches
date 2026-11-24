@@ -6,7 +6,7 @@
 
 One sentence that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun. The program writes that single sentence to `entry.txt` — no code, no explanation, just the pitch:
 
-> Tell an AI agent on make.fun your app idea in plain words tonight, and by tomorrow you'll have a first version you can tap, try, and show your friends — no code, no cost, no commitment.
+> Tell an AI agent on make.fun your app idea in plain words tonight — the plant-watering one, say — and by morning you'll have a rough first version to tap and show your friends. If it's useless, delete it: no code, no cost, no commitment.
 
 ## Run it
 

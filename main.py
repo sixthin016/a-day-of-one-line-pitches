@@ -11,18 +11,20 @@ produces the same file, so two grader runs are byte-identical.
 import os
 import sys
 
-# One sentence, 185 characters. Plain words, second person, a concrete
-# time promise (tonight -> tomorrow), and the risk removed (no code,
-# no cost, no commitment). Winner of the local proxy judge (NVIDIA
-# Nemotron-3-Nano): mean game 0.967 vs three strong rival pitches, and
-# the shortest of the finalists, which the tie-break favours.
-# The live-judge gate (z-ai/glm-5.3-flash) could not run yet: Runcrate
-# returned HTTP 529 Overloaded on every free model, and OpenRouter's free
-# daily budget was already spent. Re-run notes/h2h_gate.py before submit.
+# One sentence, 237 characters. v2 (24 Nov 2026): iterated from local-judge
+# feedback on v1 (panel 65.3 PERBAIKI; HiLinkUP 92 SUBMIT). Both judges
+# flagged the same two things: (a) "by tomorrow you'll have a first
+# version" overpromises (Truth criterion); (b) the pitch is a generic
+# template with no specific detail. v2 fixes both with a sharper angle,
+# not polish: a concrete example idea (the plant-watering one, say),
+# "rough first version" instead of a guaranteed first version, and a
+# walk-away detail ("If it's useless, delete it") that makes the
+# no-code/no-cost/no-commitment claim credible.
 PITCH = (
-    "Tell an AI agent on make.fun your app idea in plain words tonight, "
-    "and by tomorrow you'll have a first version you can tap, try, and "
-    "show your friends \u2014 no code, no cost, no commitment."
+    "Tell an AI agent on make.fun your app idea in plain words tonight "
+    "\u2014 the plant-watering one, say \u2014 and by morning you\u2019ll "
+    "have a rough first version to tap and show your friends. If it\u2019s "
+    "useless, delete it: no code, no cost, no commitment."
 )
 
 
